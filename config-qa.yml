@@ -1,0 +1,5 @@
+data:
+  env: config-qa
+  user:
+    username: config-qa-user
+    password: 123456
