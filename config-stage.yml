@@ -2,5 +2,4 @@ data:
   env: config-stage
   user:
     username: config-stage-user
-    password: 654321
-  change: nihao
+    password: 123456
