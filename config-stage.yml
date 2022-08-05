@@ -2,4 +2,4 @@ data:
   env: config-stage
   user:
     username: config-stage-user
-    password: 987654
+    password: 123456
